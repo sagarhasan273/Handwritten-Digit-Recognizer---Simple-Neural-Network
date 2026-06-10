@@ -1,11 +1,8 @@
 
----
-
 ## 📁 Project 2: Handwritten Digit Recognizer
 
-### README.md
 
-```markdown
+
 # Handwritten Digit Recognizer 🔢
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
